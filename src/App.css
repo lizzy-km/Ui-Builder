@@ -1,0 +1,13 @@
+:focus-visible, 
+:focus-within,
+:focus{
+  border: none;
+  stroke: none;
+  outline: none !important;
+
+}
+
+.active {
+  color: #21c049;
+  /* background-color: #310659; */
+}
